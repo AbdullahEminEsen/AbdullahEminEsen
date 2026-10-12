@@ -6,7 +6,6 @@
 </picture>
 
 <a href="https://www.linkedin.com/in/abdullah-emin-esen-51694a209/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://komarev.com/ghpvc/?username=AbdullahEminEsen&label=inference%20requests&color=8B5CF6&style=flat-square" alt="Profile views">
 
 </div>
 
