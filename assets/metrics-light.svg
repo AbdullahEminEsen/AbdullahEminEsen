@@ -10,7 +10,7 @@
 <clipPath id="chart"><rect x="530" y="72" width="434" height="152" rx="8"/></clipPath></defs>
 <circle cx="40" cy="42" r="4" fill="#059669"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
 <text x="52" y="46" font-family="ui-monospace, 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#475569" letter-spacing="1">training_metrics.log</text>
-<text x="964" y="46" text-anchor="end" font-family="ui-monospace, 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11" fill="#94A3B8">auto-updated daily · 2026-10-18</text>
+<text x="964" y="46" text-anchor="end" font-family="ui-monospace, 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11" fill="#94A3B8">auto-updated daily · 2026-10-19</text>
 <rect x="36" y="72" width="220" height="70" rx="10" fill="#FFFFFF" stroke="#D9DFEC"/>
 <rect x="36" y="86" width="3" height="42" rx="1.5" fill="#7C3AED"/>
 <text x="52" y="94" font-family="ui-monospace, 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11" fill="#475569">contributions</text>
